@@ -7,9 +7,13 @@ sqlite3
 
 # Usage
 To run the script, you need to have python and sqlite3 installed on your system.
-1. Clone the repository to your local machine
+
+a) Clone the repository to your local machine
+
 git clone https://github.com/<your-username>/bookstore.git
-2. navigate to the project directory and run the script
+
+b) navigate to the project directory and run the script
+
 cd bookstore
 python3 bookstore.py
 Once the script is running, you will be presented with a menu of options:
@@ -19,6 +23,7 @@ Once the script is running, you will be presented with a menu of options:
 3. Delete book
 4. Search books
 0. Exit
+
 Select the appropriate option and follow the prompts to complete the operation.
 
 # Error handling
